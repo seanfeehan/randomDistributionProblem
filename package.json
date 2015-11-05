@@ -1,0 +1,8 @@
+{
+  "name": "randomDistributionProblem",
+  "version": "1.0.0",
+  "dependencies": {
+    "hashmap": "^2.0.4",
+    "promise": "^7.0.4"
+  }
+}
